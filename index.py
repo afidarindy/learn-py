@@ -6,6 +6,7 @@
 # 3. Escaping from certain characters
 # 4. Line break
 # 5. Playing with number
+# 6. Print strings along with numbers
 
 print("Print a string with quotation marks")
 print('Print a string with apostrophe')
