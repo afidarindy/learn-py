@@ -5,7 +5,7 @@
 # 2. Concatenation
 # 3. Escaping from certain characters
 # 4. Line break
-# 5. 
+# 5. Playing with number
 
 print("Print a string with quotation marks")
 print('Print a string with apostrophe')
@@ -17,8 +17,8 @@ print('1. Data Types')
 yourVar = 'This is string in a defined variable'
 print(yourVar)
 
-x = 1104
-print(x)
+myID = 11042000
+print(myID)
 
 print('--------------------------------------')
 
@@ -47,3 +47,27 @@ print (stepOne + '\n' + stepTwo)
 print('--------------------------------------')
 
 print('5. Playing with number :')
+
+x   = 11
+y   = 4
+z   = 200
+p   = 11.04
+
+print(x + y)
+print(x * y)
+max(x, y, z)
+min(x, y, z, 1)
+round(p)
+round(89.9)
+
+import math
+math.pi
+
+print('--------------------------------------')
+
+print('6. Print strings along with numbers :')
+
+ticketPrice = 45000
+year        = 2022
+print('The ticket is ' + str(ticketPrice) + ' rupiah in ' + str(year))
+print('The ticket is ', ticketPrice, ' rupiah in ', year)
