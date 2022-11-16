@@ -47,8 +47,3 @@ print (stepOne + '\n' + stepTwo)
 print('--------------------------------------')
 
 print('5. Playing with number :')
-
-#Capitalized
-print('Capitalized method')
-c = "mushroom"
-c.capitalize()
