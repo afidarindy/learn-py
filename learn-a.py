@@ -7,4 +7,4 @@
 yourName    = input("Hi, there! What's your name?")
 yourAddress    = input("Great! So, where do you live?")
 
-print('Alright, ' + yourName + '. I guess ' + yourAddress + ' is not too far from here. I hope we can get along :)')
+print('Alright, ' + yourName + '. I guess ' + yourAddress + ' is not too far from here. I hope we can get along!')
