@@ -1,4 +1,4 @@
-# Learning Python with Afida <3 Part 2
+# Learning Python with Afida <3 Part 3
 
 # Here you'll find :
 # 1. If else statement
