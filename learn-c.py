@@ -2,7 +2,7 @@
 
 # Here you'll find :
 # 1. While loop
-# 2. For loop
+# 2. For in loop
 
 sky   = 7
 while sky >= 1:    
