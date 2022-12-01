@@ -24,3 +24,15 @@ print(name)
 # deleting a value in age
 del age[2]
 print(age)
+
+print(len(name))
+print(min(name))
+print(max(name))
+
+print(len(age))
+print(min(age))
+print(max(age))
+
+print(len(mixed))
+print(min(mixed))
+print(max(mixed))
