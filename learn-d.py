@@ -13,5 +13,14 @@ name.append('Jessica')
 
 # print out the 3th value or index number 2 of mixed list (index always start with 0)
 print(mixed[2])
+
 # print out the name list after added Jessica
 print(name)
+
+# update the list and print them
+name[3] = 'Choi Woongiee'
+print(name)
+
+# deleting a value in age
+del age[2]
+print(age)
